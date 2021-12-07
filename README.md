@@ -1,1 +1,3 @@
-Building a a software system for managing a futuristic spaceship fleet, expressesing OOP principles. 
+Building a software system for managing a "futuristic spaceship fleet", expressing OOP principles: Inheritance, Polymorphism, Interfaces ,etc.
+
+
