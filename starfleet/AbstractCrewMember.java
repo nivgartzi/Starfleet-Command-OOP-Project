@@ -1,6 +1,7 @@
 package il.ac.tau.cs.sw1.ex9.starfleet;
 
-public abstract class AbstractCrewMember implements CrewMember {
+public abstract class AbstractCrewMember implements CrewMember 
+{
 	
 	private int age, yearsInService;
 	private String name;
